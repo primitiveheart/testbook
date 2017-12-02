@@ -1,6 +1,6 @@
 # 前端
 
-技术：semantic ui , Jqery
+技术：semantic ui , Jquery , html , css, javascript, ajax
 
 # 后端
 
