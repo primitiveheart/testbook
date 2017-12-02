@@ -1,6 +1,6 @@
 # 前端
 
-技术：semantic ui , 
+技术：semantic ui , Jqery
 
 # 后端
 
