@@ -23,12 +23,15 @@
 
 3. datatable的路由发送与返回的一些参数
 
-1. 发送请求中的携带参数 draw： start : length:
+  1. 发送请求中的携带参数 
+  draw ： 
+  start : 
+  length:
 
-2. 响应返回携带的参数  
-draw:  
-recordsTotal:  
-recordsFiltered:
+  2. 响应返回携带的参数  
+  draw:  
+  recordsTotal:  
+  recordsFiltered:
 
 
 
