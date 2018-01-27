@@ -1,10 +1,8 @@
 # datatable的自己一些理解和demo
 
-1. datatables需要的\[jquery-datatable-min.js\]\([https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js\)和](https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js%29和[juery-datatable-min.css]%28https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css%29%29%29\)
+1. datatables需要的\[jquery-datatable-min.js\]\([https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js\)和](https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js%29和[juery-datatable-min.css]%28https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css%29%29%29\)[https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css](https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css "jquery-datatable-min.css")
 
-2. [\[juery-datatable-min.css\]\(https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css](https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js%29和[juery-datatable-min.css]%28https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css%29%29%29\)\)
-
-3. datatables中options一些参数
+1. datatables中options一些参数
 
 | options | 解释 |
 | :--- | :--- |
