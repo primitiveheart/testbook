@@ -2,7 +2,7 @@
 
 1. datatables需要的\[jquery-datatable-min.js\]\([https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js\)和](https://cdn.datatables.net/1.10.16/js/jquery.dataTables.min.js%29和[juery-datatable-min.css]%28https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css%29%29%29\)[https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css](https://cdn.datatables.net/1.10.16/css/jquery.dataTables.min.css "jquery-datatable-min.css")
 
-1. datatables中options一些参数
+2. datatables中options一些参数
 
 | options | 解释 |
 | :--- | :--- |
@@ -18,6 +18,19 @@
 | lengthChange |  |
 | searching |  |
 | bInfo |  |
+
+3. datatable的路由发送与返回的一些参数
+
+1. 发送请求中的携带参树
+   draw：
+   start :
+   length:
+2. 响应返回携带的参数
+   draw:
+   recordsTotal:
+   recordsFiltered:
+
+
 
 
 
